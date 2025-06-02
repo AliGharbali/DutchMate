@@ -1,0 +1,27 @@
+{
+  "lesson_id": 7,
+  "theme": "Housing & complaints – relative clauses",
+  "grammar_focus": "Relative clauses, housing vocabulary",
+  "reading": {
+    "title": "Rental ad",
+    "description": "Read a Dutch rental advertisement. Answer five comprehension questions.",
+    "resource": "rental_ad.txt"
+  },
+  "listening": {
+    "title": "Podcast #12",
+    "description": "Listen to a podcast about housing and complaints. Answer five comprehension questions.",
+    "resource": "podcast_12_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Make a phone complaint about a problem in your apartment, using at least one relative clause."
+  },
+  "writing": {
+    "prompt": "Write a formal letter to your landlord about a housing issue. Use at least 70 words."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}

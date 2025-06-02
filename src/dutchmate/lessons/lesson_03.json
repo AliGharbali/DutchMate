@@ -1,0 +1,27 @@
+{
+  "lesson_id": 3,
+  "theme": "Past events – perfect tense",
+  "grammar_focus": "Perfect tense, past time expressions",
+  "reading": {
+    "title": "Eerste werkdag",
+    "description": "Read a story about someone's first day at work. Answer five comprehension questions.",
+    "resource": "story_eerste_werkdag.txt"
+  },
+  "listening": {
+    "title": "Lingua Listening #2",
+    "description": "Listen to a short story about a weekend. Answer five comprehension questions.",
+    "resource": "lingua_listening_02_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Tell a story about your last weekend in Dutch, using the perfect tense."
+  },
+  "writing": {
+    "prompt": "Write a WhatsApp message recounting a recent event. Use at least 50 words."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}

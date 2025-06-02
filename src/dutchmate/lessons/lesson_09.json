@@ -1,0 +1,27 @@
+{
+  "lesson_id": 9,
+  "theme": "Culture & events – idioms",
+  "grammar_focus": "Idiomatic expressions, event vocabulary",
+  "reading": {
+    "title": "Festival article",
+    "description": "Read an article about a Dutch festival. Answer five comprehension questions.",
+    "resource": "festival_article.txt"
+  },
+  "listening": {
+    "title": "Vlog fragment",
+    "description": "Listen to a vlog about a cultural event. Answer five comprehension questions.",
+    "resource": "vlog_fragment_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Pitch a cultural event in Dutch, using at least one idiom."
+  },
+  "writing": {
+    "prompt": "Write a blog post about a cultural event you attended. Use at least 70 words."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}

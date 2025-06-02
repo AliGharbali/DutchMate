@@ -1,0 +1,27 @@
+{
+  "lesson_id": 6,
+  "theme": "Travel plans – future & conditionals",
+  "grammar_focus": "Future tense, conditionals",
+  "reading": {
+    "title": "Train timetable",
+    "description": "Read a Dutch train timetable and a short travel plan. Answer five comprehension questions.",
+    "resource": "train_timetable.txt"
+  },
+  "listening": {
+    "title": "News audio: Weerbericht",
+    "description": "Listen to a Dutch weather report. Answer five comprehension questions.",
+    "resource": "news_weerbericht_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Plan a trip in Dutch. Describe where you will go and what you will do, using future tense and conditionals."
+  },
+  "writing": {
+    "prompt": "Write a trip itinerary for a weekend in the Netherlands. Use at least 60 words."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}

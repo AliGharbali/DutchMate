@@ -1,0 +1,27 @@
+{
+  "lesson_id": 8,
+  "theme": "Work & email etiquette",
+  "grammar_focus": "Formal/informal register, email conventions",
+  "reading": {
+    "title": "Office memo",
+    "description": "Read a Dutch office memo. Answer five comprehension questions.",
+    "resource": "office_memo.txt"
+  },
+  "listening": {
+    "title": "Meeting excerpt",
+    "description": "Listen to a short excerpt from a work meeting. Answer five comprehension questions.",
+    "resource": "meeting_excerpt_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Simulate a short meeting in Dutch. Greet, state your opinion, and thank a colleague."
+  },
+  "writing": {
+    "prompt": "Write a reply to a work email in Dutch. Use at least 60 words."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}

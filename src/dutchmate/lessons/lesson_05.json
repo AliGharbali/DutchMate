@@ -1,0 +1,27 @@
+{
+  "lesson_id": 5,
+  "theme": "Food & ordering – imperatives",
+  "grammar_focus": "Imperatives, food vocabulary",
+  "reading": {
+    "title": "Menu review",
+    "description": "Read a Dutch restaurant menu and a review. Answer five comprehension questions.",
+    "resource": "menu_review.txt"
+  },
+  "listening": {
+    "title": "Restaurant video",
+    "description": "Listen to a conversation in a restaurant. Answer five comprehension questions.",
+    "resource": "restaurant_video_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Order food and drinks in Dutch, using polite imperatives."
+  },
+  "writing": {
+    "prompt": "Write a short recipe note for a Dutch dish. Use at least 50 words."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "lesson_id": 1,
+  "theme": "Getting to know you",
+  "grammar_focus": "Present tense, word order",
+  "reading": {
+    "title": "Short profile",
+    "description": "Read a short profile of a Dutch learner. Answer five comprehension questions.",
+    "resource": "lingua_profile_01.txt"
+  },
+  "listening": {
+    "title": "Taalklas Episode 1",
+    "description": "Listen to a short introduction from Taalklas. Answer five comprehension questions.",
+    "resource": "taalklas_ep01_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Introduce yourself in Dutch. Mention your name, where you are from, and one hobby."
+  },
+  "writing": {
+    "prompt": "Write a 50-word email introducing yourself to a new Dutch friend."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "lesson_id": 4,
+  "theme": "Health & advice – modal verbs",
+  "grammar_focus": "Modal verbs, giving advice",
+  "reading": {
+    "title": "GP visit dialog",
+    "description": "Read a dialogue from a doctor's visit. Answer five comprehension questions.",
+    "resource": "gp_visit_dialog.txt"
+  },
+  "listening": {
+    "title": "Taalklas Episode 8",
+    "description": "Listen to a conversation about health. Answer five comprehension questions.",
+    "resource": "taalklas_ep08_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Give health advice to a friend in Dutch, using at least two modal verbs."
+  },
+  "writing": {
+    "prompt": "Write a forum post asking for advice about a health problem. Use at least 60 words."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}

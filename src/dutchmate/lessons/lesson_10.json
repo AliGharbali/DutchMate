@@ -1,0 +1,27 @@
+{
+  "lesson_id": 10,
+  "theme": "Revision & debate – mixed tenses",
+  "grammar_focus": "Mixed tenses, expressing opinions",
+  "reading": {
+    "title": "Opinion piece",
+    "description": "Read a Dutch opinion article. Answer five comprehension questions.",
+    "resource": "opinion_piece.txt"
+  },
+  "listening": {
+    "title": "Interview clip",
+    "description": "Listen to a short interview about a current topic. Answer five comprehension questions.",
+    "resource": "interview_clip_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Debate a topic in Dutch. State your opinion and respond to a counterargument, using mixed tenses."
+  },
+  "writing": {
+    "prompt": "Write an opinion essay on a current topic in the Netherlands. Use at least 80 words and mixed tenses."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}

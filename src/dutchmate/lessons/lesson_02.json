@@ -1,0 +1,27 @@
+{
+  "lesson_id": 2,
+  "theme": "Daily routine & separable verbs",
+  "grammar_focus": "Separable verbs, present tense",
+  "reading": {
+    "title": "Mijn dag",
+    "description": "Read a blog post about a typical day. Answer five comprehension questions.",
+    "resource": "blog_mijn_dag.txt"
+  },
+  "listening": {
+    "title": "Podcast: 5 minuten Nederlands #3",
+    "description": "Listen to a short podcast about daily routines. Answer five comprehension questions.",
+    "resource": "podcast_5minnl_03_transcript.txt"
+  },
+  "speaking": {
+    "prompt": "Describe your morning routine in Dutch, using at least three separable verbs."
+  },
+  "writing": {
+    "prompt": "Write a diary entry about your daily routine. Use at least 70 words."
+  },
+  "assessment_rubric": {
+    "task_fulfilment": "0-5",
+    "grammar_accuracy": "0-5",
+    "lexical_range": "0-5",
+    "cohesion": "0-5"
+  }
+}
