@@ -31,18 +31,29 @@ README.md
 requirements.txt
 ```
 
-## Setup
+## Installation
 
-1. Install dependencies:
+1. Install dependencies with [uv](https://github.com/astral-sh/uv):
    ```
-   pip install -r requirements.txt
+   uv sync
    ```
 
-2. Add your OpenAI API key and other credentials as needed.
+2. Create a `.env` file in your project root and add your OpenAI API key:
+   ```
+   OPENAI_API_KEY=sk-...
+   ```
 
-3. Download or copy B1-level Dutch resources (texts, audio, transcripts) into the `data/` folder.
+3. Run the backend:
+   ```
+   uvicorn dutchmate.backend.app:app --reload --app-dir src
+   ```
 
-4. Run the backend and frontend as described in their respective folders.
+4. Run the frontend:
+   ```
+   streamlit run src/dutchmate/frontend/app.py
+   ```
+
+5. Download or copy B1-level Dutch resources (texts, audio, transcripts) into `src/dutchmate/resources/`.
 
 ## License
 
